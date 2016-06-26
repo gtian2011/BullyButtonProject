@@ -1,0 +1,23 @@
+.button{
+	width: 300px;
+	height: 150px;
+	font-size: 30pt;
+}
+
+.body{
+	display:block;
+	margin: 100 auto;
+}
+
+form{
+    margin: 50px auto;
+}
+
+table{
+    border-collapse: separate;
+	border-spacing: 50px 0;
+}
+
+td{
+	padding: 20px 0;
+}
